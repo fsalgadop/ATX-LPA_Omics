@@ -3,7 +3,7 @@ Análisis multiómico de la asociación oncológica del eje de señalización AT
 
 El código se organiza en las cuatro secciones de resultados, además de una sección de aprendizaje no supervisado.
 En cada sección, se incluyen los datos empleados para preparar las figuras del trabajo
-Debido a su gran peso, no se adjuntan las bases de datos empleadas de manera directa, sino que se referencian en el trabajo escrito.
+Debido a su gran peso, no se adjuntan las bases de datos empleadas de manera completa, sino que se incluyen únicamente los datos de los 19 genes de interés.
 
 # Estructura del Proyecto
 **Datos_Transcriptómicos/**
