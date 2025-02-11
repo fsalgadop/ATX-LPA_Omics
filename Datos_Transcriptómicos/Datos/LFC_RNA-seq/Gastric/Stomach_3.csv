@@ -1,0 +1,19 @@
+Symbol;GeneID;padj;pvalue;lfcSE;stat;log2FoldChange;baseMean;Description
+ENPP2;5168;0.522;0.0672;0.561;-1.8302377;-1.0267941;199.97;ectonucleotide pyrophosphatase/phosphodiesterase 2
+ITGA2B;3674;NA;0.0497;1.217;-1.9627898;-2.3896881;7.07;integrin subunit alpha 2b
+ITGA5;3678;NA;NA;0.873;0.3494137;0.305064;1612.22;integrin subunit alpha 5
+ITGA8;8516;0.936;0.48;0.381;0.7059349;0.2692203;228.14;integrin subunit alpha 8
+ITGAV;3685;0.849;0.287;0.375;1.0638748;0.3992734;891.02;integrin subunit alpha V
+ITGB1;3688;0.999;0.978;0.455;0.0278043;0.0126452;2311.56;integrin subunit beta 1
+ITGB3;3690;0.939;0.492;0.574;-0.6868799;-0.3944163;167.05;integrin subunit beta 3
+ITGB5;3693;0.56;0.0801;0.338;1.7500172;0.5920753;334.21;integrin subunit beta 5
+ITGB6;3694;0.575;0.085;0.421;1.7226091;0.7246203;158.76;integrin subunit beta 6
+ITGB8;3696;0.278;0.0177;0.383;2.3715722;0.9078605;301.62;integrin subunit beta 8
+LPAR1;1902;0.852;0.293;0.53;-1.0509169;-0.5572651;232.75;lysophosphatidic acid receptor 1
+LPAR2;9170;0.957;0.595;0.625;0.531665;0.3323319;77.68;lysophosphatidic acid receptor 2
+LPAR3;23566;NA;0.229;1.224;-1.2030871;-1.4723381;7.49;lysophosphatidic acid receptor 3
+LPAR5;57121;0.859;0.304;0.417;1.0270816;0.4280191;57.22;lysophosphatidic acid receptor 5
+LPAR6;10161;0.8;0.222;0.37;1.2208736;0.4511275;166.09;lysophosphatidic acid receptor 6
+PLPP1;8611;0.973;0.695;0.296;-0.3923116;-0.1161884;165.58;phospholipid phosphatase 1
+PLPP2;8612;0.939;0.491;0.725;0.6888628;0.4995638;71.72;phospholipid phosphatase 2
+PLPP3;8613;0.849;0.286;0.371;-1.0666387;-0.395655;327.96;phospholipid phosphatase 3

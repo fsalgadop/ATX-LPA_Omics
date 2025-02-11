@@ -1,0 +1,15 @@
+Symbol;GeneID;padj;pvalue;lfcSE;stat;log2FoldChange;baseMean;Description
+ITGA5;3678;0.834;0.525;0.6881;0.635789;0.4374696;101.08;integrin subunit alpha 5
+ITGAV;3685;0.0363;0.000974;0.345;-3.298066;-1.1376836;1661.66;integrin subunit alpha V
+ITGB1;3688;0.924;0.725;0.2436;-0.351626;-0.0856679;10336.95;integrin subunit beta 1
+ITGB5;3693;0.909;0.693;0.2203;-0.395386;-0.0870865;2167.51;integrin subunit beta 5
+ITGB6;3694;0.938;0.768;0.3575;-0.295046;-0.1054886;675.6;integrin subunit beta 6
+ITGB8;3696;0.67;0.275;0.4675;-1.091538;-0.510251;1341.5;integrin subunit beta 8
+LPAR1;1902;0.413;0.0835;0.5713;-1.730788;-0.9888027;62.27;lysophosphatidic acid receptor 1
+LPAR2;9170;0.715;0.328;0.1109;0.978086;0.1084866;549.62;lysophosphatidic acid receptor 2
+LPAR3;23566;0.872;0.605;0.7241;-0.516783;-0.3741875;25.74;lysophosphatidic acid receptor 3
+LPAR5;57121;0.748;0.371;0.1719;-0.894302;-0.153703;368.87;lysophosphatidic acid receptor 5
+LPAR6;10161;0.432;0.0933;0.3008;1.678202;0.5048727;231.37;lysophosphatidic acid receptor 6
+PLPP1;8611;0.372;0.0651;0.2568;-1.844416;-0.4736962;262.66;phospholipid phosphatase 1
+PLPP2;8612;0.23;0.0234;0.1426;2.267011;0.3232423;2192.36;phospholipid phosphatase 2
+PLPP3;8613;0.99;0.96;0.3511;-0.050404;-0.0176966;355.67;phospholipid phosphatase 3
