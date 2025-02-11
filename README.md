@@ -1,6 +1,11 @@
 # ATX-LPA_Omics
 Análisis multiómico de la asociación oncológica del eje de señalización ATX-LPA
 
+El código se organiza en las cuatro secciones de resultados, además de una sección de aprendizaje no supervisado.
+En cada sección, se incluyen los datos empleados para preparar las figuras del trabajo
+Debido a su gran peso, no se adjuntan las bases de datos empleadas de manera directa, sino que se referencian en el trabajo escrito.
+
+# Estructura del Proyecto
 **Datos_Transcriptómicos/**
   - Análisis_Correlación_RNA-seq.R
   - RNA-seq_Análisis_LFC.R
